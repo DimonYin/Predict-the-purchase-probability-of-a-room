@@ -1,6 +1,7 @@
 # Predict-the--purchase-probability-of-a-room
  
-Problem Description： A room sharing company (e.g., Airbnb) wants to help room providers set a reasonable price for their rooms. One of the key steps is to build a model to predict the  purchase probability of a room (described by certain features as well as the date) under certain  prices. We have the following historic data:
+Problem Description： 
+A room sharing company (e.g., Airbnb) wants to help room providers set a reasonable price for their rooms. One of the key steps is to build a model to predict the  purchase probability of a room (described by certain features as well as the date) under certain  prices. We have the following historic data:
 
 1. ID: The data ID
 2. Region: The region the room belongs to (an integer, taking value between 1 and 10)
@@ -15,4 +16,5 @@ Problem Description： A room sharing company (e.g., Airbnb) wants to help room 
 
 (There are 50,000 training and 20,000 testing data.)
 
-Goal： Build a model to predict the purchase probability of each test data. We will evaluate the model by the AUC of your result (thus please give a probability for each test data), but accuracy, recall and precision will also be evaluated, and decision-making on rendering their importance is part of the test.
+Goal： 
+Build a model to predict the purchase probability of each test data. We will evaluate the model by the AUC of your result (thus please give a probability for each test data), but accuracy, recall and precision will also be evaluated, and decision-making on rendering their importance is part of the test.
