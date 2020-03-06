@@ -1,0 +1,22 @@
+---------------------------------------------------------------
+Algorithm: Random Forest
+Is data normalized? True
+Is SMOTE algorithm applied? True
+Search Model: RandomizedSearchCV
+Best Parameters: {'n_estimators': 2000, 'min_samples_split': 5, 'min_samples_leaf': 2, 'max_features': 'auto', 'max_depth': 30, 'bootstrap': True}
+___________________Cross_validation approach___________________
+Average test accuracy: 79.63%
+Average ROC AUC score: 91.01%
+Average recall score: 70.85%
+Average precision score: 83.50%
+Average f1 score: 72.36%
+___________________Train_test_split approach___________________
+Test accuracy: 81.18%
+ROC AUC score: 81.13%
+Confusion matrix:
+[[10722  1397]
+ [ 3135  8826]]
+Recall score: 73.79%
+Precision score: 86.33%
+F1 score: 79.57%
+____________________________End________________________________

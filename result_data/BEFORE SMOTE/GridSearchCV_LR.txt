@@ -1,0 +1,22 @@
+---------------------------------------------------------------
+Algorithm: Logistic Regression
+Is data normalized? True
+Is SMOTE algorithm applied? False
+Search Model: GridSearchCV
+Best Parameters: {'C': 0.08858667904100823, 'penalty': 'l1', 'solver': 'liblinear'}
+___________________Cross_validation approach___________________
+Average test accuracy: 71.51%
+Average ROC AUC score: 79.25%
+Average recall score: 74.90%
+Average precision score: 48.27%
+Average f1 score: 58.70%
+___________________Train_test_split approach___________________
+Test accuracy: 71.35%
+ROC AUC score: 72.41%
+Confusion matrix:
+[[8441 3600]
+ [1127 3332]]
+Recall score: 74.73%
+Precision score: 48.07%
+F1 score: 58.50%
+____________________________End________________________________

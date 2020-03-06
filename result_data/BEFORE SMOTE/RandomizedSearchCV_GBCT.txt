@@ -1,0 +1,22 @@
+---------------------------------------------------------------
+Algorithm: Gradient Boosting Classification Tree
+Is data normalized? True
+Is SMOTE algorithm applied? False
+Search Model: RandomizedSearchCV
+Best Parameters: {'n_estimators': 1800, 'min_samples_split': 0.6, 'min_samples_leaf': 0.1, 'max_features': 2, 'max_depth': None, 'learning_rate': 0.09}
+___________________Cross_validation approach___________________
+Average test accuracy: 73.76%
+Average ROC AUC score: 77.34%
+Average recall score: 30.26%
+Average precision score: 52.57%
+Average f1 score: 38.40%
+___________________Train_test_split approach___________________
+Test accuracy: 73.41%
+ROC AUC score: 59.85%
+Confusion matrix:
+[[10761  1280]
+ [ 3107  1352]]
+Recall score: 30.32%
+Precision score: 51.37%
+F1 score: 38.13%
+____________________________End________________________________

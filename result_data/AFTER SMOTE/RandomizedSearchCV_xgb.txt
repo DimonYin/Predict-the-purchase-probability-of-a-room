@@ -1,0 +1,22 @@
+---------------------------------------------------------------
+Algorithm: XGboost
+Is data normalized? True
+Is SMOTE algorithm applied? True
+Search Model: RandomizedSearchCV
+Best Parameters: {'subsample': 0.9555555555555555, 'n_estimators': 1200, 'min_child_weight': 4, 'max_depth': 3, 'gamma': 3, 'eta': 0.04, 'colsample_bytree': 0.3}
+___________________Cross_validation approach___________________
+Average test accuracy: 79.78%
+Average ROC AUC score: 91.67%
+Average recall score: 72.37%
+Average precision score: 82.85%
+Average f1 score: 73.65%
+___________________Train_test_split approach___________________
+Test accuracy: 81.53%
+ROC AUC score: 81.50%
+Confusion matrix:
+[[10565  1554]
+ [ 2893  9068]]
+Recall score: 75.81%
+Precision score: 85.37%
+F1 score: 80.31%
+____________________________End________________________________
