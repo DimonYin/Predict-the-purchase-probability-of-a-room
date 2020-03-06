@@ -13,8 +13,6 @@ Problem Description： A room sharing company (e.g., Airbnb) wants to help room 
 9. Price: The historic posted price of the room (a continuous variable)
 10. Accept: Whether this post gets accepted (someone took it, 1) or not (0) in the end
 
-The training data is posted at: http://www.menet.umn.edu/~zwang/files/case2_training.csv
-The testing data is posted at: http://www.menet.umn.edu/~zwang/files/case2_testing.csv
 (There are 50,000 training and 20,000 testing data.)
 
 Goal： Build a model to predict the purchase probability of each test data. We will evaluate the model by the AUC of your result (thus please give a probability for each test data), but accuracy, recall and precision will also be evaluated, and decision-making on rendering their importance is part of the test.
