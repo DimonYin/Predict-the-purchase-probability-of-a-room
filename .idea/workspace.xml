@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b486095-88c3-47e5-90d6-d2fb82e64a7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem_description/ML-interview 0 2question-1223.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/三态面试题报告.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/三态面试题报告.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5b486095-88c3-47e5-90d6-d2fb82e64a7a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,6 +161,7 @@
       <workItem from="1583497885308" duration="5309000" />
       <workItem from="1583507098199" duration="61000" />
       <workItem from="1583511103268" duration="61000" />
+      <workItem from="1583808914599" duration="9000" />
     </task>
     <servers />
   </component>
@@ -210,10 +205,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583356731894" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1583511103145">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1583808914739">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583511103145" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583808914739" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Predict_the__purchase_probability_of_a_room$predict_the_probability.coverage" NAME="predict_the_probability Coverage Results" MODIFIED="1583257009565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
